@@ -1,0 +1,1 @@
+{"t_stat": 23.312836289349683, "p_value": 4.844446735409452e-115, "alpha": 0.05, "t_test_conclusion": "Reject Null Hypothesis (Significant Difference in Day vs Night Temps)", "r2_score": 0.8334415255181805, "features_used": ["CO(GT)"], "model_coefficients": [4.871906845250875], "model_intercept": -0.08736429205004548, "target": "Benzene (C6H6)"}
